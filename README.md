@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Le Gai, a graduate of the School of Cyber Engineering, **Xidian University**, where I majored in cyber engineering.
+I am Le Gai, a graduate of the School of Cyber Engineering, **Xidian University**, where I majored in cyber engineering. I was a member of xdsec and a pwn player in the CTF competition.
 
 I am now pursuing my **PhD program** at the Institute for Network Sciences and Cyberspace(INSC), **Tsinghua University**. I am a member of the [Network Architecture and Measurement Group](https://thuname.github.io/lab-website/), advised by **Assistant Research Professor Lin He**, and under the leadership of  **Prof. Ying Liu.** 
 
@@ -13,5 +13,3 @@ I am now pursuing my **PhD program** at the Institute for Network Sciences and C
 For more information, you may take a look at my [Homepage](https://LeGai325.github.io/).
 
 ![Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeGai325)
-
-
