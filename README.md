@@ -13,3 +13,4 @@ I am now pursuing my **PhD program** at the Institute for Network Sciences and C
 For more information, you may take a look at my [Homepage](https://LeGai325.github.io/).
 
 ![Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeGai325)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
